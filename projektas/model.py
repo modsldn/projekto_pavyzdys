@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 
 
 # Load the csv file
-df = pd.read_csv("iris.csv")
+df = pd.read_csv("data/iris.csv")
 
 print(df.head())
 
