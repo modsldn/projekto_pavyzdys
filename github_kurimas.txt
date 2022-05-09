@@ -1,0 +1,39 @@
+1. github paskyros
+2. savo projekto
+
+a) savo projekta pradedame versijuoti
+	Sukuriame git repozitorija	git init
+	git status parodo, kokie faila yra sekami ir nesekami
+	Pridedam .gitignore faila
+	I .gitignore faila itraukiame failus ir folderius, kuriu nenorime versijuoti
+	git add -A
+	git commit -m"first commit"
+
+b) githube sukuriame nauja projekta
+	paspaudziam mygtuka new (zalios ryskios spalvos)
+	pavadiname repozitorija norimu vardu
+	SVARBU! pasirenkame - public ar private - default yra public
+	ikeliam esanti projekta i nauja repozitorija
+c) savo projekta, sukeliame i githubo projekta
+	git remote add origin https://github.com/modsldn/projekto_pavyzdys.git
+	git branch -M main
+	git push -u origin main
+
+
+
+Projekto struktura
+
+projektas/
+	notebookai
+	pythono faila
+	duomenys
+flask_app/
+	app.py
+	...
+README.md
+.gitignore
+requirements.txt
+
+
+
+
