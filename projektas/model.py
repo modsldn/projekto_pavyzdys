@@ -43,5 +43,5 @@ print(score)
 # classifier.fit(X_train, y_train)
 
 # Make pickle file of our model
-with open('model.pickle', 'wb') as handle:
+with open('../flask_app/model.pickle', 'wb') as handle:
     pickle.dump(pipe, handle, protocol=pickle.HIGHEST_PROTOCOL)

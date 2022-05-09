@@ -1,4 +1,4 @@
-from app import flask_app
+from flask_app.app import flask_app
 # python -m pytest
 
 client = flask_app.test_client()

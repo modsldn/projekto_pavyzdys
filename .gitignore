@@ -1,3 +1,5 @@
 .idea/
 *.zip
-tests/__pycache__/test_api.cpython-38-pytest-7.1.1.pyc
+flask_app/tests/__pycache__/test_api.cpython-38-pytest-7.1.1.pyc
+.venv/
+flask_app/tests/.pytest_cache/
