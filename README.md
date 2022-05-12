@@ -3,17 +3,16 @@
 | Autorius        | Nuoroda į projektą           |
 | ------------- |:-------------:|
 |Mantas|https://github.com/mantasansk/NewsArticlesProject|
-|Vilius||
-|Živilė||
-|Guoda||
-|Liudmila||
+|Vilius|https://github.com/VBloze/ClothingClassifier|
+|Živilė|https://github.com/zivilecei/Projektas-drabuziai|
+|Guoda|https://github.com/gbinspace/Spaceship_titanic_Kaggle_competition_logistic_regression|
+|Liudmila|https://github.com/LiumilaRa/Rental-Price-Prediction-with-Web-Scrapping|
 |Virginijus||
 |Goda||
 |Lukas||
-|Arvydas||
 |Nomeda||
 |Augustinas||
-|Rūta||
+|Rūta|https://github.com/monkeviciute/code_academy_projektas|
 |Agnė||
 |Tomas||
 
