@@ -2,7 +2,7 @@
 
 | Autorius        | Nuoroda į projektą           |
 | ------------- |:-------------:|
-|Mantas||
+|Mantas|https://github.com/mantasansk/NewsArticlesProject|
 |Vilius||
 |Živilė||
 |Guoda||
