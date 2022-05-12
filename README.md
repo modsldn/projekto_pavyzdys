@@ -1,4 +1,27 @@
-# H1
+# Projektiniai darbai
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+| Autorius        | Nuoroda į projektą           |
+| ------------- |:-------------:|
+|Mantas||
+|Vilius||
+|Živilė||
+|Guoda||
+|Liudmila||
+|Virginijus||
+|Goda||
+|Lukas||
+|Arvydas||
+|Nomeda||
+|Augustinas||
+|Rūta||
+|Agnė||
+|Tomas||
+
 ## H2
 ### H3
 #### H4
