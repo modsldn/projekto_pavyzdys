@@ -8,7 +8,7 @@
 |Guoda|https://github.com/gbinspace/Spaceship_titanic_Kaggle_competition_logistic_regression|
 |Liudmila|https://github.com/LiumilaRa/Rental-Price-Prediction-with-Web-Scrapping|
 |Virginijus||
-|Goda||
+|Goda|https://github.com/Godasa/baigiamasis_darbas|
 |Lukas||
 |Nomeda||
 |Augustinas||
