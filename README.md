@@ -9,7 +9,7 @@
 |Liudmila|https://github.com/LiumilaRa/Rental-Price-Prediction-with-Web-Scrapping|
 |Virginijus||
 |Goda|https://github.com/Godasa/baigiamasis_darbas|
-|Lukas||
+|Lukas|https://github.com/AllYouNeedIsNumbers/projektas_gdp|
 |Nomeda||
 |Augustinas||
 |Rūta|https://github.com/monkeviciute/code_academy_projektas|
