@@ -13,7 +13,7 @@
 |Nomeda||
 |Augustinas||
 |Rūta|https://github.com/monkeviciute/code_academy_projektas|
-|Agnė||
+|Agnė|https://github.com/AgneData/GDP_PREDICTION_FINAL|
 |Tomas||
 
 ## H2
