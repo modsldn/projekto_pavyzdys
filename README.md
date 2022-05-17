@@ -14,7 +14,7 @@
 |Augustinas||
 |Rūta|https://github.com/monkeviciute/code_academy_projektas|
 |Agnė|https://github.com/AgneData/GDP_PREDICTION_FINAL|
-|Tomas||
+|Tomas|https://github.com/TomasSavas/projektasLoans|
 
 ## H2
 ### H3
